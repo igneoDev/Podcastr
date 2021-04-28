@@ -1,0 +1,27 @@
+.wrapper {
+  display: flex;
+  main {
+    flex: 1;
+  }
+}
+
+.dark {
+
+  --base: #140e22;
+  --white: #FFF;
+  
+
+  --light-50: #23193b;
+  --light-100: #808080;
+  --light-200: #AFB2B1;
+  --light-500: #E6E8EB;
+  --light-800: #F7F8FA;
+
+  --secondary-500: #04D361;
+  
+  --primary-300: #7f5fc9;
+  --primary-400: #724fc4; 
+  --primary-500: #563a99;
+  --primary-800: #50358d;
+
+}
